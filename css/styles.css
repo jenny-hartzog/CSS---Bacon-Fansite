@@ -1,0 +1,18 @@
+h1 {
+    color:crimson;
+    font-family:'Crafty Girls', cursive;
+    font-size: 50px;
+}
+p {
+    font-family: 'Righteous', cursive;
+    font-size: 20px;
+}
+footer {
+    padding:25%;
+    text-align: left;
+    width:5%;
+}
+
+.credit {
+    color:rgb(239, 184, 45);
+}
